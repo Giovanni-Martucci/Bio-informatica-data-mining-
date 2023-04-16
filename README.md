@@ -1,7 +1,6 @@
-# Bio-informatica-data-mining-
+# Bio-informatics-data-mining
 
-
-Questo progetto si prepone l'obiettivo di individuare pazienti con tumori simili analizzando i processi biologici dei diversi pazienti e cercando pattern simili tra loro.
-I software e gli algoritmi utilizzati sono:
- - algoritmo “Mithrill” che è servito a mappare i valori di espressione nei corrispondenti geni della rete ed ha assegnato per ogni gene di ogni paziente un valore di perturbazione 
-- Multimotif: un software in grado di calcolare i motivi per i meta-pathway di ogni paziente, trovando i sottografi etichettati più ricorrenti nella rete 
+This project aims to identify patients with similar tumors by analyzing the biological processes of different patients and searching for similar patterns among them.
+The software and algorithms used are:
+- "Mithrill" algorithm, which was used to map expression values to their corresponding genes in the network and assigned a perturbation value for each gene of each patient.
+- "Multimotif", a software capable of calculating motifs for the meta-pathways of each patient, finding the most recurrent labeled subgraphs in the network.
